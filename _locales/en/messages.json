@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "MyiHack",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Simple extension to answer MyiMaths questions. Created to show the issues with plain text variables, use at your own risk.", 
+    "description":"The description of the application, displayed in the web store."
+  }
+}
