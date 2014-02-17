@@ -1,6 +1,6 @@
 {
   "name": "__MSG_appName__",
-  "version": "0.3",
+  "version": "0.4",
   "manifest_version": 2,
   "description": "__MSG_appDesc__",
   "homepage_url": "http://www.ovalbit.com",
@@ -22,8 +22,9 @@
         "src/inject/inject.css"
       ],
       "js": [
-        "src/inject/inject.js",
-        "js/jquery-2.1.0.min.js"
+        "js/mousetrap.min.js",
+        "js/jquery-2.1.0.min.js",
+        "src/inject/inject.js"
       ]
     }
   ]
